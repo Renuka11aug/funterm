@@ -1,0 +1,33 @@
+{
+  "name": "funterm",
+  "version": "1.0.0",
+  "description": "A colorful, meme-powered terminal experience for Node.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "./src/index.cjs",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "import": "./src/index.mjs",
+      "require": "./src/index.cjs"
+    }
+  },
+  "files": [
+    "src",
+    "docs/API.md",
+    "docs/THEMES.md",
+    "docs/SOUNDS.md",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build.cjs",
+    "prepack": "npm run build"
+  }
+}

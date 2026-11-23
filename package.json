@@ -1,8 +1,22 @@
 {
   "name": "funterm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A colorful, meme-powered terminal experience for Node.js",
+  "author": "Renuka <renuka11aug@gmail.com> (https://github.com/Renuka11aug)",
   "license": "MIT",
+  "keywords": [
+    "terminal",
+    "cli",
+    "colors",
+    "ansi",
+    "meme",
+    "sound",
+    "logger",
+    "spinner",
+    "progress",
+    "terminal-ui",
+    "funterm"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Renuka11aug/funterm.git"

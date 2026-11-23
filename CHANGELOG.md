@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+- Added GitHub repository links and metadata.
+- Updated documentation and README with badges and examples.
+- Added package keywords and author information.
+
 ## 1.0.0
 
 - Initial release of FunTerm.

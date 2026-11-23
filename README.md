@@ -1,6 +1,11 @@
 # FunTerm 🎉
 
-**Make your terminal less boring.** FunTerm is a playful, meme-style terminal toolkit for Node.js. It adds colorful output, funny success and error messages, original sound effects (including the FAAAA buzzer), simple terminal UI components, progress animations, and a command runner that reports real process results.
+[![npm version](https://img.shields.io/npm/v/funterm.svg?color=cb3837)](https://www.npmjs.com/package/funterm)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/node/v/funterm.svg)](https://nodejs.org)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Renuka11aug%2Ffunterm-181717?logo=github)](https://github.com/Renuka11aug/funterm)
+
+**Make your terminal less boring.** FunTerm is a playful, meme-style terminal toolkit for Node.js. It adds colorful output, funny success and error messages, original sound effects (including the iconic FAAAA buzzer), simple terminal UI components, progress animations, and a command runner that reports real process results.
 
 > FunTerm reacts to errors; it does not hide them. Your actual error message, exit code, stdout, and stderr remain available.
 

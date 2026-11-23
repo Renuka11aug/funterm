@@ -147,6 +147,17 @@ FunTerm respects `NO_COLOR`. `FORCE_COLOR=1` enables ANSI colors in redirected o
 
 Playback utilities are optional system capabilities, not npm dependencies. FunTerm never makes network requests.
 
+## Repository & Contributing
+
+Contributions, issues, and feature requests are welcome!
+- **GitHub Repository**: [https://github.com/Renuka11aug/funterm](https://github.com/Renuka11aug/funterm)
+- **Issues**: [https://github.com/Renuka11aug/funterm/issues](https://github.com/Renuka11aug/funterm/issues)
+
+## Author
+
+**Renuka**
+- GitHub: [@Renuka11aug](https://github.com/Renuka11aug)
+
 ## License
 
 MIT. See [`LICENSE`](LICENSE).

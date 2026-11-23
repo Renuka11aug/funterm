@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "A colorful, meme-powered terminal experience for Node.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renuka11aug/funterm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Renuka11aug/funterm/issues"
+  },
+  "homepage": "https://github.com/Renuka11aug/funterm#readme",
   "type": "commonjs",
   "main": "./src/index.cjs",
   "types": "./src/index.d.ts",
